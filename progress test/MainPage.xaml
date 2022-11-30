@@ -93,5 +93,7 @@
 
     </Grid>
 
+        </VerticalStackLayout>
+    </ScrollView>
 
 </ContentPage>
